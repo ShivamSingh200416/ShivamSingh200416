@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Data Science fr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="SQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matplotlib_icon.svg/512px-Matplotlib_icon.svg.png" width="50" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" alt="Seaborn"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" width="50" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
